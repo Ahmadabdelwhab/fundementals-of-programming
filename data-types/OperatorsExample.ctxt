@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=OperatorsExample
+comment1.params=
+comment1.target=void\ arithmeticOperators()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ relationalOperators()
+comment3.params=
+comment3.target=void\ logicalOperators()
+comment4.params=
+comment4.target=void\ assignmentOperators()
+comment5.params=
+comment5.target=void\ incrementDecrementOperators()
+comment6.params=
+comment6.target=void\ bitwiseOperators()
+comment7.params=
+comment7.target=void\ ternaryOperator()
+comment8.params=
+comment8.target=void\ instanceofOperator()
+comment9.params=
+comment9.target=void\ shiftOperators()
+numComments=11

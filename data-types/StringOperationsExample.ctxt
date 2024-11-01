@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=StringOperationsExample
+comment1.params=
+comment1.target=void\ stringConcatenation()
+comment10.params=
+comment10.target=void\ stringContainsExample()
+comment11.params=
+comment11.target=void\ stringStartEndCheck()
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ stringLength()
+comment3.params=
+comment3.target=void\ charAtExample()
+comment4.params=
+comment4.target=void\ substringExample()
+comment5.params=
+comment5.target=void\ stringComparison()
+comment6.params=
+comment6.target=void\ stringReplaceExample()
+comment7.params=
+comment7.target=void\ stringSplitExample()
+comment8.params=
+comment8.target=void\ stringCaseConversion()
+comment9.params=
+comment9.target=void\ trimExample()
+numComments=13

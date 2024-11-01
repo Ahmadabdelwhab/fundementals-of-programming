@@ -2,9 +2,6 @@ import java.io.IOException;
 import java.io.FileReader;
 import java.util.Scanner;
 import java.io.PrintWriter;
-
-
-
 public class FilesIO
 {
     public static void main(String []args){
@@ -35,15 +32,11 @@ public class FilesIO
             //the balance at the end of the month
             double interest = begginningBalance * interestRate / 100;
             double endBalance = begginningBalance + interest;
-            writer.println("Beginning balance = " + begginningBalance + " Interest rate = " + interestRate + " Interest = " + interest + " End balance = " + endBalance);
+            writer.println("Beginning balance = "+begginningBalance+" Interest rate = "+interestRate+" Interest = "+interest+" End balance = "+endBalance);
             //e
             char ch = sc.next().charAt(0);
             writer.println("the character after " + ch + " is " + (char)(ch + 1));
             //f
-            
-
-
-
             sc.close();
             fr.close();
             writer.close();
