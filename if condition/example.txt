@@ -1,0 +1,10 @@
+x = 10
+
+boolean (true / false)
+true =1 anything not 0 or null true
+boolean flag = true, 1 , 788,"ahmad"
+
+1 > 6 false 
+6 <= 6 true 
+11 % 2 == 1
+num % 2 == 0

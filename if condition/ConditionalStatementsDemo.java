@@ -27,8 +27,10 @@ public class ConditionalStatementsDemo {
         // 2. if-else Statement
         System.out.print("Enter a number to check if it’s positive or negative: ");
         int number = scanner.nextInt();
-        if (number >= 0) {
+        if (number > 0) {
             System.out.println("The number is positive.");
+        }else if(number == 0){
+            System.out.println("this number is zero");
         } else {
             System.out.println("The number is negative.");
         }
