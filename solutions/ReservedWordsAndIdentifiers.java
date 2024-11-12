@@ -1,6 +1,7 @@
 package solutions;
 
 public class ReservedWordsAndIdentifiers {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         // Examples of valid identifiers:
         int myFirstProgram = 0;
