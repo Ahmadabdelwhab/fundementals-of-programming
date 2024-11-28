@@ -48,7 +48,7 @@ public class MathEquations {
 
         // 13. Logarithm (base 10) of a number
         double log10Num = 1000;
-        System.out.println("Log base 10 of " + log10Num + " is: " + Math.log10(log10Num));
+        System.out.println("Log base 10 of " + log10Num + " is: " + M`(log10Num));
 
         // 14. Ceiling of a number (rounds up)
         double num8 = 6.3;

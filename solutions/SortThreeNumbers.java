@@ -35,8 +35,7 @@ public class SortThreeNumbers {
         }
 
         // Output the numbers in non-descending order
-        System.out.println("The numbers in non-descending order are: " 
-                           + num1 + ", " + num2 + ", " + num3);
+        System.out.println("The numbers in non-descending order are: " + num1 + ", " + num2 + ", " + num3);
 
         scanner.close();
     }

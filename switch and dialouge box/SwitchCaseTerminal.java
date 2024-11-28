@@ -8,15 +8,15 @@ public class SwitchCaseTerminal {
         int choice = scanner.nextInt();
 
         switch (choice) {
-            case 1:
+            case 1 :
                 System.out.println("You chose Option 1: Hello!");
-                break;
+    
             case 2:
                 System.out.println("You chose Option 2: How are you?");
-                break;
+                
             case 3:
                 System.out.println("You chose Option 3: Goodbye!");
-                break;
+                
             default:
                 System.out.println("Invalid choice! Please enter a number between 1 and 3.");
         }
